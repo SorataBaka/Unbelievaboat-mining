@@ -44,5 +44,5 @@ const giveFunction = async() => {
 }
 
 setInterval(workFunction, 35000)
-setInterval(workFunction, 3600000)
+setInterval(giveFunction, 3600000)
 
