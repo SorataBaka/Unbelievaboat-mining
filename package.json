@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "name": "ub-mining-bot",
+  "version": "2.0.0",
+  "description": "A bot that mines unbelievaboat cash",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorataBaka/Unbelievaboat-mining-bot.git"
+  },
+  "keywords": [
+    "unbelievaboat",
+    "discord",
+    "bot",
+    "mining"
+  ],
+  "author": "Christian Harjuno (sorata)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorataBaka/Unbelievaboat-mining-bot/issues"
+  },
+  "homepage": "https://github.com/SorataBaka/Unbelievaboat-mining-bot#readme"
+}
